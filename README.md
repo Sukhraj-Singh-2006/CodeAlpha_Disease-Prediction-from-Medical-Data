@@ -124,7 +124,7 @@ Features:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_DiseasePrediction.git
+git clone https://github.com/Sukhraj-Singh-2006/CodeAlpha_DiseasePrediction.git
 cd CodeAlpha_DiseasePrediction
 ```
 
